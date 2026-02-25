@@ -1,8 +1,7 @@
 # Level 9 – Routing Across Multiple Networks
 
 ## 🖼️ Network Diagram
-![Multi-Network Routing](../diagrams/level9.png)
-
+![Level 9 Diagram](../diagrams/level9.jpg)
 ## 📘 Overview
 
 This example combines all previous routing concepts into one scenario.
