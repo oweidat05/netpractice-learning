@@ -1,8 +1,7 @@
 # Level 8 – Longest Prefix Match
 
 ## 🖼️ Network Diagram
-![Longest Prefix Match](../diagrams/level8.png)
-
+![Level 8 Diagram](../diagrams/level8.jpg)
 ## 📘 Overview
 
 This example introduces one of the most important routing concepts:  
