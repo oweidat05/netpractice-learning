@@ -1,8 +1,7 @@
 # Level 2 – The Subnet Mask Defines the Network Boundary
 
 ## 🖼️ Network Diagram
-![Subnet Boundary Diagram](../diagrams/level2.png)
-
+![Level 3 Diagram](../diagrams/level2.jpg)
 ## 📘 Overview
 
 This example demonstrates two independent local networks.  
@@ -50,4 +49,5 @@ Two devices can communicate directly only if the subnet mask places them inside 
 If the mask separates them into different networks, a router is required.
 
 ---
+
 
