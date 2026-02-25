@@ -1,8 +1,7 @@
 # Level 6 – Hosts Use a Gateway, Routers Know the Path
 
 ## 🖼️ Network Diagram
-![Routing Through Gateway](../diagrams/level6.png)
-
+![Level 6 Diagram](../diagrams/level6.jpg)
 ## 📘 Overview
 
 This example explains how a host reaches a remote network through a router.
