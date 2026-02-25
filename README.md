@@ -31,42 +31,40 @@ It is meant to be read progressively, from fundamentals to complex routing scena
 
 # 📂 Repository Structure
 
-
+```
 Networking-Learning/
 │
 ├── README.md
 │
 ├── diagrams/
-│ ├── level1.jpg
-│ ├── level2.jpg
-│ ├── level3.jpg
-│ ├── level4.jpg
-│ ├── level5.jpg
-│ ├── level6.jpg
-│ ├── level7.jpg
-│ ├── level8.jpg
-│ ├── level9.jpg
-│ └── level10.jpg
+│   ├── level1.jpg
+│   ├── level2.jpg
+│   ├── level3.jpg
+│   ├── level4.jpg
+│   ├── level5.jpg
+│   ├── level6.jpg
+│   ├── level7.jpg
+│   ├── level8.jpg
+│   ├── level9.jpg
+│   └── level10.jpg
 │
 ├── levels/
-│ ├── level1.md
-│ ├── level2.md
-│ ├── level3.md
-│ ├── level4.md
-│ ├── level5.md
-│ ├── level6.md
-│ ├── level7.md
-│ ├── level8.md
-│ ├── level9.md
-│ └── level10.md
+│   ├── level1.md
+│   ├── level2.md
+│   ├── level3.md
+│   ├── level4.md
+│   ├── level5.md
+│   ├── level6.md
+│   ├── level7.md
+│   ├── level8.md
+│   ├── level9.md
+│   └── level10.md
 │
 └── fundamentals/
-├── subnetting.md
-├── routing.md
-└── packet-flow.md
-
-
----
+    ├── subnetting.md
+    ├── routing.md
+    └── packet-flow.md
+```
 
 # 🧠 How to Use This Repository
 
