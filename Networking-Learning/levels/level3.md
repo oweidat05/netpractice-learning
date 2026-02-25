@@ -1,8 +1,7 @@
 # Level 3 – Same Switch Does Not Mean Same Network
 
 ## 🖼️ Network Diagram
-![Switch Network Diagram](../diagrams/level3.png)
-
+![Level 3 Diagram](../diagrams/level3.jpg)
 ## 📘 Overview
 
 This example shows three devices connected to the same switch.  
