@@ -1,7 +1,6 @@
 # Level 1 – Same Subnet Communication
 
-![Same Subnet Diagram](../diagrams/level1.png)
-
+![Level 1 Diagram](../diagrams/level1.jpg)
 ## 📘 Overview
 
 This example shows two independent local networks (LAN 1 and LAN 2).  
@@ -39,3 +38,4 @@ With a `/16` mask, the network becomes:
 ```
 
 Both devices belong to the same network range, so they can also communicate directly without a router.
+
